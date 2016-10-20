@@ -81,3 +81,35 @@ alternative: `restund`
   * Signaling: Https
   * Audio/Video: SRTP
   * Data: DTLS
+
+# Multiple Peers
+
+## Mesh
+Copy for all (N clients, N-1 connections per client)
+
+## Star
+Most capable Device is center
+
+## MCU
+For large amount of clients, MCU is no client (gotta be reliable etc.)
+
+# Phones
+* sipML5
+* Phono
+* Zingaya
+
+# Building an App
+* chrome://webrtc-internals (while on a call, gives information - useful for Debugging/Monitoring!)
+* adapter.js (for different versions of RTC)
+
+## Frameworks
+* Video stuff
+  * SimpleWebRTC
+  * easyRTC
+  * webRTC.io
+* P2P Data
+  * PeerJS
+  * Sharefest
+  
+## TurnKey Servers
+some production servers are out there, register, get key, have fun.
