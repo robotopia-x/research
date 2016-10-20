@@ -113,3 +113,8 @@ For large amount of clients, MCU is no client (gotta be reliable etc.)
   
 ## TurnKey Servers
 some production servers are out there, register, get key, have fun.
+
+
+# Sources
+* http://io13webrtc.appspot.com/ (2016-10-20)
+* https://www.youtube.com/watch?v=p2HzZkd2A40 (GoogleIO WebRTC 2013)
