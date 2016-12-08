@@ -1,4 +1,4 @@
-# Objects?
+# Objects
 
 ## Player
 * Base (a Unit)
@@ -98,7 +98,7 @@
   * triggering unit
   * (killing unit) - optional, cause might be killed by some event/timer
 
-### Actions
+# Actions
 ## Thoughts
 * let users create own 'actions', they can use/save in their IDE? like patrol from move, or attack-to from move and discovering an enemy, return ressources
 * Could explain simple concepts by creating actions in a tutorial
