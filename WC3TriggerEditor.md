@@ -1,10 +1,4 @@
-# Eventually Useful Events inspired by WC3 Map Editor
-
-## Legend for Events
-* Eventname
-  * data 1
-  * (optional data2)
-  * [array of data 3]
+# Objects?
 
 ## Player
 * Base (a Unit)
@@ -49,8 +43,18 @@
 * (Range) - units or Meelee/Range?
 * (Speed)
 
+# Events
+
+## Legend for Events
+* Eventname
+  * data 1
+  * (optional data2)
+  * [array of data 3]
+    
+"triggering unit" will be the unit, that triggered the event.  
+
 ### Events
-* finished current Order
+* finished current Order (basically a unit has nothing to do)
   * triggering unit
 * moves in range of OBJECT (building, ressource, enemy, marker)
   * triggering unit
@@ -68,10 +72,10 @@
   * Ressource Type
   * Ressource Amount
 
-* finished building
+* finished building (when building buildings, not sure if we need this for now)
   * triggering unit
   * building
-* produced a unit
+* produced a unit (one unit/building creating another unit)
   * triggerin unit
   * produced unit
 
@@ -83,7 +87,7 @@
 * attacks unit
   * triggering unit
   * target unit
-* is attacked
+* is being attacked
   * triggering unit
   * attacking unit
 
