@@ -1,55 +1,66 @@
-# Objects
+# Objects/Entities
+
+## Some Thoughts
+* A couple of Base Entities/Objects.
+* Keep it to very few base classes - generic
+  * kids hopefully wont wonder (why can i do ?! with this unit but not this building? etc..)
 
 ## Player
-* Base (a Unit)
-* Name
-* Ressources
-  * Type A
-  * Type B
+
+* Base (a Unit - his base/start point/factory whatever)
+* Name (Player name, for human readability etc.)
+* Ressources (Keeping track of: Gold etc.)
+  * Type A (eg. Gold)
+  * Type B (eg. Wood)
   * ...
-* Points
-* [units] or getUnits()
-* Code?
+* Points (points earned)
+* [units] or getUnits() (to address all palyer units - might prove useful when base gets attacked for example)
+* Code? (bind the current code to the player object - design issue)
 
 
 ## Marker
-* position
+* position (position of marker)
 * eventRange (range that triggers events)
 * owner (Player or global?)
-* event
-  * type
-  * data?
+* event (event being emitted)
+  * type (type could be something like: I am a ressource marker, I am a waypoint? I am an item?)
+  * data? (additional event information, if necessary, similar to the events listed for units lateron)
 
 ## Region
-* topLeft
-* bottomRight
-* owner (Player or global?)
-* event
+* topLeft (define rectangle)
+* bottomRight (define rectangle)
+* owner (Player or global?) (player could create a Rectangle over a ressource field for example, to make units gather ressources there) (global could be something in the style of: This area is poisoned, or belongs to player XY?)
+* event (see Marker event for details)
   * type
   * data?
 
 ## Unit
 * Owner
-* Position
+* Position (current location of unit)
 * Lifepoints
   * MAX
   * CURRENT
-* Orders
-  * Code Snippet
+* Orders (really depends on how the runtime executes things, Idea was for the user to be able to check a unit for doing a certain task, For example: Is this unit just standing around (holding position) - and if so group it with other units to attack or whatever.)
+  * Code Snippet (the bigger routine: like: go back to base)
   * current statement = current order (eg. walk forward)
-* getFriendsCloseBy()
-* getEnemiesCloseBy()
+* getFriendsCloseBy() (useful for grouping up units, finding allies)
+* getEnemiesCloseBy() (useful for attack/retreat decissions)
 * [Active Events] - eg. gathered Ressources, discovered enemy
-* (Range) - units or Meelee/Range?
-* (Speed)
+  * a unit might at the same tick encounter ressources and an enemy unit and thus have 2 events pending. In that case the user needs to be able to decide on a routine.
+  * in this scenario starting to gather ressources might not be smart while being attacked by an enemy (lalala chopping tree - famous last words)
+  * By having a list of current events we leave the decision/priorisation to the user rather than executing whatever snippet is being chosen by the runtime
+* (AttackRange) - units or Meelee/Range?
+* (MovementSpeed)
+  * maybe we want a faster unit at some point, like a scout or smth.
+  * maybe can implement this internally to make it easy lateron.
 
 # Events
 
 ## Legend for Events
 * Eventname
-  * data 1
-  * (optional data2)
-  * [array of data 3]
+  * data 1 - mandatory data
+  * (data2) - () mean optional
+  * [data 3] - [] means array
     
 "triggering unit" will be the unit, that triggered the event.  
 
