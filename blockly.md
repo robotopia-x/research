@@ -32,7 +32,7 @@ workspace.addChangeListener(onFirstComment);a
 #### Advanced Blocks
 
 It is also possible to save nested blocks with more advanced logic
-![blockly_nested](./blockly_nested.png)
+![blockly_nested](./img/blockly_nested.png)
 
 ---
 #### -> Features combined could let users create their 'own' blocks with advanced behaviour which could then be saved and reused late.
