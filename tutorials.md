@@ -31,6 +31,33 @@
   - Patrol
  
 ## Tutorial 3
+> Introduction to actions -> collect / build / find and attack
+
+1. Collect resource
+  - go to resource mine
+  - collect resource
+  - return to base with resource
+  
+2. Build walls
+  - walk around base
+  - build wall 
+  
+3. Find and attack enemy
+  - find nearest enemy 
+  - go to enemy
+  - attack enemy
+  
+4. Destroy enemy buildings
+  - destory walls
+  - destroy base
+  
+## Tutorial 4
+> Combine the till now learned skills
+
+1. Survive for x minutes 
+  - Build wall to protect base from incoming enemies
+  - Patrol around
+  - Find and attack the incoming enemies
 
 # What do others have ? 
 > code.org / codecombat.com 
