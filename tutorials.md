@@ -59,6 +59,23 @@
   - Patrol around
   - Find and attack the incoming enemies
 
+## Tutorial 5
+> Introduction to events -> marker / enemy
+
+1. Marker
+  - Place marker
+  - React to marker event and go to position
+  
+2. Enemy
+  - React to enemy event
+  - Go to enemy
+  - Attack enemy
+  
+## Tutorial 6
+> Final "real" fight against computer enemy
+
+#### - Combine all learned skills to defeat your enemy!
+  
 # What do others have ? 
 > code.org / codecombat.com 
 
