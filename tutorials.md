@@ -14,6 +14,14 @@
   - Move Right 
   - Move Left
   - Move Backward
+  
+## Tutorial 2
+> Introduction to loops -> x times / forever / while
+
+1. Same task as in *Tutorial 1* only with loops
+  - Move within repeat loop
+  
+2. 
 
 ## What do others have ? 
 > code.org / codecombat.com 
