@@ -1,5 +1,19 @@
 ## Tutorial 1
-> Introduction to basic movement -> move[Forward/Backward....]
+> Introduction to basic movement -> move[Forward/Backward....]  
+> Moving on predefined path check "Highlight way to goal"
+
+#### Small game field -> e.g. 5 * 5
+
+1. Understanding move (rotate and move separately)
+  - Move Forward
+  - Rotate Left
+  - Rotate Right
+  
+2. "Real" move (moving automatically handles rotation)
+  - Move Forward
+  - Move Right 
+  - Move Left
+  - Move Backward
 
 ## What do others have ? 
 > code.org / codecombat.com 
