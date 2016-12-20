@@ -1,6 +1,11 @@
+# Tutorials 
 ## Tutorial 1
 > Introduction to basic movement -> move[Forward/Backward....]  
 > Moving on predefined path check "Highlight way to goal"
+
+#### Introduction to the robot ide
+- "Highlighting" of features
+- Explanation of the currently highlighted feature
 
 #### Small game field -> e.g. 5 * 5
 
@@ -21,9 +26,13 @@
 1. Same task as in *Tutorial 1* only with loops
   - Move within repeat loop
   
-2. 
+2. While / Loop forever
+  - Walk in circles
+  - Patrol
+ 
+## Tutorial 3
 
-## What do others have ? 
+# What do others have ? 
 > code.org / codecombat.com 
 
 ### Level Goals  
