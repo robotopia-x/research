@@ -102,7 +102,7 @@
 ### Highlight way to "goal"
 ![way_to_goal](./img/highlighted_way_to_goal.png)
 
-### Method desription
+### Method description
 ![method_desc](./img/method_desc.png)
 
 ### Start over current run
