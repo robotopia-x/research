@@ -85,7 +85,9 @@
 ### Level Quests  
 ![level_quests](./img/level_quests.png)
 
-### A bit of Story
+### A bit of Story 
+>Still a better story than twilight
+
 ![story](./img/story.png)
 
 ### Fix your Code info
