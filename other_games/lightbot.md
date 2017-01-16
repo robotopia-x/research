@@ -23,9 +23,11 @@ Lateron a "Jump" Block is introduced so a higher terrain level can be reached.
 # What's Good / Bad
 
 ## Good
-### Code Blocks are highlighted upon Execution (although very slightly, almost impossible to see)
-### Cute Robot
-### Code Blocks are very easy to understand
+* Code Blocks are highlighted upon Execution (although very slightly, almost impossible to see)
+* Cute Robot
+* Code Blocks are very easy to understand and well painted (except for the jump, that keeps getting me confused)
+* Quick and Easy Restart or Reset of Code as well
+* Can Speed up Code Execution
 
 ## Bad
 ### Did not run in Chrome as I tested
