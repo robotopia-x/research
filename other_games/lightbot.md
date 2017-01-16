@@ -31,7 +31,12 @@ Lateron a "Jump" Block is introduced so a higher terrain level can be reached.
 ### Did not run in Chrome as I tested
 ### Sequence Capacity
 The Sequence Capacity is strictly set by the game, which means if I have a different Solution, that requires one of my Sequences to hold another element, it is not possible to use that solution.  
-![alt text](../img/lightroboLimit.PNG "Screenshot")  
+![Screenshot of LightRobot](../img/lightroboLimit.PNG "Screenshot")  
 As you can see here, I tried to write a routine, that would color 2x2 blue fields, but thanks to the limitation my solution is unaccepted. Which is unacceptible.
+
+First Idea of Solving by one routine coloring and the other moving to the same origin to simply start P1 again, but the Sequence is not long enough | Forced Solution (One Method calling the other and back)
+--- | ---
+![Screenshot of LightRobot](../img/lightroboLimit2.PNG "Screenshot") | ![Screenshot of LightRobot](../img/lightroboLimit2sol.PNG "Screenshot")  
+
 ### Loops are forced
-As soon as Loops are introduced the player has no choice but to use them thanks to the Sequence Capacity and the Main Sequence only having one Slot for a Block
+As soon as Loops are introduced the player has no choice but to use them thanks to the Sequence Capacity and the Main Sequence only having one Slot for a Block as seen in the Screenshots above
