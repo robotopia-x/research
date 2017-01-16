@@ -1,4 +1,4 @@
-# General
+# [The Game](https://www.allcancode.com)  
 
 ## What does the player do
 The player drag and drops code blocks into a canvas to stack up a sequence. The sequence will then be executed by either the male or female character. The goal is to reach the in gold highlighted tile.
