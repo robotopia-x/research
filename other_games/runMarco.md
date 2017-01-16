@@ -22,6 +22,7 @@ possible, so you know exactly what to do.
 1. "repeat x times" for more complex movement "stair like"
 1. nested loops
 1. while loops are introduced
+>Stopped at level 22 due to slow progress and few changes per level
 
 # What's Good / Bad
 
