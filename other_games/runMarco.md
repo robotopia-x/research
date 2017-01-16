@@ -6,7 +6,7 @@
 ## Levels
 
 # Game Progress
-1. "Move Forward" and "Light block" are available to be used in one Main Sequence
+1. bla
 
 # What's Good / Bad
 
