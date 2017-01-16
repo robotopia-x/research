@@ -31,5 +31,6 @@ Lateron a "Jump" Block is introduced so a higher terrain level can be reached.
 ### Did not run in Chrome as I tested
 ### Sequence Capacity
 The Sequence Capacity is strictly set by the game, which means if I have a different Solution, that requires one of my Sequences to hold another element, it is not possible to use that solution.
+![alt text](../img/lightroboLimit.png "Screenshot")
 ### Loops are forced
 As soon as Loops are introduced the player has no choice but to use them thanks to the Sequence Capacity and the Main Sequence only having one Slot for a Block
