@@ -61,6 +61,9 @@ After the very first tutorial Level we are dropped off inside the platform dashb
 * Writing the Code in the given IDE gets really annoying very quickly
   * As a Coder with my own IDE + it's Settings I am really used to code in a given style and with given hotkey, this is (of course) not possible here
 
+The following Screenshot may give you an Expression of the Editor Messiness with all the parsing, assigning to Vars etc.  
+![Example](../img/codingame/graphLevel.png "Messy Example")  
+
 ## In general
 This platform wants to address advanced coders.  
 As an advanced Coder, the levels with their taught content and the way I need to code and handle the task, is simply not fun. I'm sorry.  Taking a look at the Leaderboard though you can see many University Students who played this game to a decent extend. So it may be just me.  
