@@ -1,4 +1,4 @@
-# General
+# [The Game](http://lightbot.com/flash.html)  
 ## What does the player do
 The player drag and drops Code Blocks into a Sequence executed by a robot. The goal in each level is the same: Lighten all the blue tiles.
 As soon as all tiles that used to be blue are lit up a level is won.
@@ -29,6 +29,7 @@ Lateron a "Jump" Block is introduced so a higher terrain level can be reached.
 
 ## Bad
 ### Did not run in Chrome as I tested
+### Runs with Flash
 ### Sequence Capacity
 The Sequence Capacity is strictly set by the game, which means if I have a different Solution, that requires one of my Sequences to hold another element, it is not possible to use that solution.  
 ![Screenshot of LightRobot](../img/lightroboLimit.PNG "Screenshot")  
