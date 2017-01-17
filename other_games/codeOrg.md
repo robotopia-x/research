@@ -24,6 +24,10 @@ The levels have kind of the same goals as in Minecraft, you just do the tasks pr
 1. plant crops
 1. walk around creeper
 1. place torches
+1. place block to get over lava
+1. new concept "if statements"
+1. lay rails to your home
+1. congratulation video and free play
 
 # What's Good / Bad
 
@@ -37,6 +41,19 @@ The levels have kind of the same goals as in Minecraft, you just do the tasks pr
 
 ![Img from different difficulties]()
 
+#### Independant quests with same concepts (won't get boring too easily)
+
+![IMG of lava level]()
+
+#### Congratulation video
+#### Share what you did
+
+![Img of share]()
+
+#### Certificate
+
+![Img of certificate]()
+
 
 ## Bad
 #### If you don't reach the goal, nothing happens... You have to realise yourself that the goal wasn't reached
@@ -49,5 +66,7 @@ The levels have kind of the same goals as in Minecraft, you just do the tasks pr
 #### Number of blocks is restricted, but will work even if there are more blocks
 
 ![img of workspace blocks]()
+
+#### No speed of of the executed level
 
 
