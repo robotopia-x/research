@@ -11,7 +11,7 @@ If the level's goal wasn't reached at the end of the code block stack, you can m
 In each level, the player has to move the character to the golden tile. There are no optional ways, only one way is
 possible, so you know exactly what to do.
 
-![imgOfGameHere](../img/runmarco.png)
+![imgOfGameHere](../img/runmarco/runmarco.png)
 
 # Game Progress
 1. Fill your notebook with the tutorial sheets
@@ -39,7 +39,7 @@ possible, so you know exactly what to do.
 #### Code blocks are saved on game exit
 #### More to come (variables, data structures)
 
-![imgOfVarsHere](../img/levels.png)
+![imgOfVarsHere](../img/runmarco/levels.png)
 
 ## Bad
 #### Left and right rotation is added seperately
