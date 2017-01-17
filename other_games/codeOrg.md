@@ -39,33 +39,33 @@ The levels have kind of the same goals as in Minecraft, you just do the tasks pr
 #### Known graphics (Minecraft)
 #### Different difficulties to choose from
 
-![Img from different difficulties]()
+![Img from different difficulties](../img/codeOrg/difficulty.png)
 
 #### Independant quests with same concepts (won't get boring too easily)
 
-![IMG of lava level]()
+![IMG of lava level](../img/codeOrg/laval_level.png)
 
 #### Congratulation video
 #### Share what you did
 
-![Img of share]()
+![Img of share](../img/codeOrg/share.png)
 
 #### Certificate
 
-![Img of certificate]()
+![Img of certificate](../img/codeOrg/certificate.png)
 
 
 ## Bad
 #### If you don't reach the goal, nothing happens... You have to realise yourself that the goal wasn't reached
 #### A lot of given code at the start of each level (too easy)
 
-![Img of given code]()
+![Img of given code](../img/codeOrg/given_codes.png)
 
 #### Can't duplicate blocks
 #### Even if code is too long, level is won
 #### Number of blocks is restricted, but will work even if there are more blocks
 
-![img of workspace blocks]()
+![img of workspace blocks](../img/codeOrg/restricted_blocks.png)
 
 #### No speed of of the executed level
 
