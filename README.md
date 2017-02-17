@@ -2,6 +2,9 @@
 > “Research is the highest form of adoration”   
 > Pierre Teilhard de Chardin
 
+###### Research is an essential part of a successfull project. Analyzing comparable projects and their features helped us make our own game unique.
+
+<br/>
 
 ## Robot-IDE
 As the heart of our project, we had to make sure to find the best JS interpreter possible. We first thought about writing our own interpreter but then found [Esper.js](https://github.com/codecombat/esper.js).  
