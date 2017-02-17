@@ -2,7 +2,7 @@
 > “Research is the highest form of adoration”   
 > Pierre Teilhard de Chardin
 
-###### Research is an essential part of a successfull project. Analyzing comparable projects and their features helped us make our own game unique.
+###### Research is an essential part of a successful project. Analyzing comparable projects and their features helped us make our own game unique.
 
 <br/>
 
@@ -35,7 +35,7 @@ CodingGame is aimed at more experienced and older kids, teaching more complex te
 [Analyzing CodingGame](./other_games/codinGame.md)
 
 #### LightBot
-This mobile game starts really easy and adds more and  more complex concepts over time eventually getting quite challenging.  
+This mobile game starts really easy and adds more and more complex concepts over time eventually getting quite challenging.  
 [Analyzing LightBot](./other_games/lightBot.md)
 
 #### RunMarco
