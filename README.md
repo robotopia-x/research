@@ -3,24 +3,24 @@
 > Pierre Teilhard de Chardin
 
 
-### Robot-IDE
+## Robot-IDE
 As the heart of our project, we had to make sure to find the best JS interpreter possible. We first thought about writing our own interpreter but then found [Esper.js](https://github.com/codecombat/esper.js).  
 [Robot IDE](./robot-ide.md)
 
-### Tutorials
+## Tutorials
 Researching other, already existing projects, we could extract some of their experience of teaching and put that gained knowledge into our tutorials.  
 [Nice to have tutorial features](./tutorials.md)  
 [Warcraft3 Level Editor](./WC3TriggerEditor.md)
 
-### WebRTC
+## WebRTC
 As the main concept behind our communication between clients and presenter, we had to make sure that it's the right technology for what we want to use it for.  
 [WebRTC](./webRTC-research.md)
 
-### Blockly
+## Blockly
 Understanding and writing valid code is hard and beginner unfriendly. That's the reason Google build the graphical programming language Blockly!  
 [Blockly Advanced](./blockly.md)
 
-### Comparable Projects
+## Comparable Projects
 To make our project unique compared to the projects already existing, we took 4 of the more known projects and analyzed their good and bad parts.
 
 #### CodeOrg
