@@ -28,16 +28,16 @@ To make our project unique compared to the projects already existing, we took 4 
 
 #### CodeOrg
 Probably the most well known and popular project that teaches kids to code. The hour of code is very popular.  
-[Analyzing CodeOrg](./other_games/codeOrg.md)
+[Analyzing CodeOrg](./other-games/codeOrg.md)
 
 #### CodingGame
 CodingGame is aimed at more experienced and older kids, teaching more complex techniques and hosting quite hard tasks.  
-[Analyzing CodingGame](./other_games/codinGame.md)
+[Analyzing CodingGame](./other-games/codinGame.md)
 
 #### LightBot
 This mobile game starts really easy and adds more and more complex concepts over time eventually getting quite challenging.  
-[Analyzing LightBot](./other_games/lightBot.md)
+[Analyzing LightBot](./other-games/lightBot.md)
 
 #### RunMarco
 Being also a mobile game, RunMarco is a more beginner friendly introduction to logic. It's really easy and aimed at smaller children.  
-[Analyzing RunMarco](./other_games/runMarco.md)
+[Analyzing RunMarco](./other-games/runMarco.md)
